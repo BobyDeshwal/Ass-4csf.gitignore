@@ -63,3 +63,8 @@ Enter second number: 5
 Choose operation (+,-,*,/): *
 Output: 50
 
+![WhatsApp Image 2025-11-28 at 13 28 45_8b6b9096](https://github.com/user-attachments/assets/ada93e0c-9233-41fa-90ff-b58723c24604)
+![WhatsApp Image 2025-11-28 at 13 29 18_fcf0145e](https://github.com/user-attachments/assets/af047912-075f-43e2-985e-2a32572f4a4f)
+![WhatsApp Image 2025-11-28 at 13 32 15_583a328e](https://github.com/user-attachments/assets/1c41be12-c739-4fe0-b8de-7fd1eda600ca)
+
+
